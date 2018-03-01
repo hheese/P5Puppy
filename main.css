@@ -1,0 +1,13 @@
+body {
+    background-color: #FFFAED;
+}
+
+canvas{
+    border: solid black 3px;
+}
+
+h1 {
+    position:fixed;
+    padding-left: 400px;
+    padding-top: 200px;
+}
